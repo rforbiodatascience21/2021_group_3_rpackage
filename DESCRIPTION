@@ -1,6 +1,6 @@
 Package: lab08aSimpleRpackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Tools for sequence analysis | Still under development
 Version: 0.1.0
 Author: Holger, August, Ranjitha, Kiara
 Maintainer: The package maintainer <yourself@somewhere.net>
