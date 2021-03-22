@@ -1,3 +1,10 @@
+#' DNA to Amino Acid
+#'
+#' Based on the given DNA codon an Amino Acid is displayed
+#'
+#' @return None
+#' @export
+
 # R/dna_codons_to_aa.R
 dna_codons_to_aa <- function(codons){
   std_code_table <- c("TTT" = "F", "TCT" = "S", "TAT" = "Y", "TGT" = "C",
