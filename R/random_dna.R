@@ -1,7 +1,7 @@
 #' Random DNA generator
 #' 
-#' @return None
-#' @param l A number.
+#' @return random DNA
+#' @param l length of DNA 
 #' @export
 
 random_dna <- function(l){

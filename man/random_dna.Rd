@@ -2,10 +2,16 @@
 % Please edit documentation in R/random_dna.R
 \name{random_dna}
 \alias{random_dna}
-\title{generated random DNA of desired size}
+\title{Random DNA generator}
 \usage{
 random_dna(l)
 }
+\arguments{
+\item{l}{length of DNA}
+}
+\value{
+random DNA
+}
 \description{
-generated random DNA of desired size
+Random DNA generator
 }
