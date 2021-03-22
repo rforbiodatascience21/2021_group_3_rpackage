@@ -1,4 +1,7 @@
-#' generated random DNA of desired size
+#' Random DNA generator
+#' 
+#' @return None
+#' @param l A number.
 #' @export
 
 random_dna <- function(l){
