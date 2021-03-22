@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 activeClientUrl="https://9cdb8361349140538870c7704eaa14ad.app.rstudio.cloud/"
 build-last-errors="[]"
 build-last-errors-base-dir=""
@@ -8,3 +9,7 @@ find-in-files-state="{\"handle\":\"\",\"input\":\"\",\"path\":\"\",\"regex\":fal
 imageDirtyState="0"
 portToken="f1dad76f9326"
 saveActionState="0"
+=======
+activeClientUrl="https://3e969a8a6ce740b6bddc0cee268a6703.app.rstudio.cloud/"
+portToken="5188ea4edc84"
+>>>>>>> 99aecf9fe5b1ac03502a6e5b2f0b1b6583bf7058
