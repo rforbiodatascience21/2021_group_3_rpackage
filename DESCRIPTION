@@ -1,11 +1,15 @@
-Package: lab08aSimpleRpackage
+Package: MasterOfBioinformatcsPackage
 Type: Package
 Title: Tools for sequence analysis | Still under development
 Version: 0.1.0
 Author: Holger, August, Ranjitha, Kiara
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Maintainer: The package maintainer <s.182521@dtu.dk>
+Description: This R package has 4 functions:
+    - dna_codons_to_aa
+    - mk_codons
+    - random_dna
+    - random_rna
+The functions can be used for instance to find codons in RNA and translate into amino acids.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
