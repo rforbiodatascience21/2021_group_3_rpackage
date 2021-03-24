@@ -1,4 +1,4 @@
-Package: MasterOfBioinformatcsPackage
+Package: MasterOfBioinformaticsPackage
 Type: Package
 Title: Tools for sequence analysis | Still under development
 Version: 0.1.0
@@ -10,6 +10,7 @@ Description: This R package has 4 functions:
     - random_dna
     - random_rna
 The functions can be used for instance to find codons in RNA and translate into amino acids.
+The package can be used in sequence analysis and genomics.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
